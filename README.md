@@ -1,2 +1,2 @@
-# FJSP
-FJSP synthetic datasets
+# FJSP synthetic datasets
+The generation process for these datasets begins by determining the number of jobs and the number of operations for each job. Subsequently, a set of available machines is randomly assigned to each operation. Processing times for each operation on the available machines are then generated, sampled from a predefined uniform distribution. Finally, all synthetic data is formatted into a specific output structure. Although these datasets lack real-world authenticity, they serve the purpose of training and testing algorithms under specific problem scales.
